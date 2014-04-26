@@ -1,0 +1,30 @@
+      body{
+        color: #333;
+        font-family: helvetica;Pro
+      }
+      h1 {
+        font-size:72px;
+        color: #333;
+        display: inline;
+      }
+      h4 {
+        display: inline;
+      }
+      h6{
+        display: inline;
+        color: #666;
+      }
+      div{
+        background: rgb(235,235,235);	
+        padding:40px;
+        margin:10px;
+      }
+      span{
+        background:purple;
+        padding:10px;
+        margin:10px;
+      }
+      .center {  
+        width: 600px;
+        margin: auto
+      }
